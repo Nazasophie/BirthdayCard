@@ -9,7 +9,7 @@ body {
     width: 300px;
     height: 395px;
     border: 10px solid #ef5050;
-    margin: 60px auto 0 auto;
+    margin: 180px auto 0 auto;
     -webkit-box-shadow: inset 10px 0px 15px 0px rgba(0, 0, 0, 0.1);
             box-shadow: inset 10px 0px 15px 0px rgba(0, 0, 0, 0.1);
     background-image: -webkit-gradient(linear, left top, left bottom, from(white), to(rgba(255, 255, 255, 0.5))), url("https://images.unsplash.com/photo-1527481138388-31827a7c94d5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXxBT3o0SFFDbVdEa3x8ZW58MHx8fHw%3D&w=1000&q=80");
